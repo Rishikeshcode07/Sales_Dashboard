@@ -1,121 +1,119 @@
 1. Project Title 🚀📊
-Sales Performance Dashboard 2022–23 – Techno Electronics 💼
+   Sales Performance Dashboard 2022–23 – Techno Electronics 💼
 
 2. Short Description 📝✨
-An interactive Power BI sales analytics dashboard that transforms raw transactional data into intuitive visuals, enabling leadership to monitor revenue, cost, profit, quantity, and brand performance for Techno Electronics across India in FY 2022–23.
-Designed with vibrant theming, dynamic KPIs, and drill‑down interactions, the dashboard delivers a fast, insightful view of “what is selling, where, and under whom” for smarter business decisions.
+   An interactive Power BI sales analytics dashboard that transforms raw transactional data into intuitive visuals, enabling leadership to monitor revenue, cost, profit, quantity, and brand performance for Techno Electronics across India in FY 2022–23. Designed with vibrant theming, dynamic KPIs, and drill‑down interactions, the dashboard delivers a fast, insightful view of “what is selling, where, and under whom” for smarter business decisions.
 
 3. Tech Stack 💻🛠️
 
-Power BI Desktop ⚡ – data modelling, relationships, interactive reports
+   * Power BI Desktop ⚡ – data modelling, relationships, interactive reports
 
-Power Query 🔄 – data cleaning, transformation, type conversions
+   * Power Query 🔄 – data cleaning, transformation, type conversions
 
-DAX 📐 – calculated columns, custom measures, KPIs
+   * DAX 📐 – calculated columns, custom measures, KPIs
 
-Microsoft Excel 📂 – source file storage and initial data preparation
+   * Microsoft Excel 📂 – source file storage and initial data preparation
 
-Power BI Visuals & Custom Formatting 🎨 – cards, bar charts, map, donut chart, slicers
+   * Power BI Visuals & Custom Formatting 🎨 – cards, bar charts, map, donut chart, slicers
 
 4. Data Source 📊📁
 
-Primary file: “Complete_Techno_Sales_Data-2.xlsx” – transactional sales data for Techno Electronics.
+   Primary file: “Complete_Techno_Sales_Data-2.xlsx” – transactional sales data for Techno Electronics.
 
-Key fields: Order ID, Date, Product, Category, Brand, Quantity, Unit Price, Cost Price, Total Sales, Total Cost, Profit, Customer State, and Supervisor details (with image references).
+   Key fields: Order ID, Date, Product, Category, Brand, Quantity, Unit Price, Cost Price, Total Sales, Total Cost, Profit, Customer State, and Supervisor details (with image references).
 
 5. Features / Highlights 🌟
 
-a. Business Problems & Goals 🎯
-Lack of a single consolidated view of sales performance across products, brands, regions, and supervisors.
+   * a. Business Problems & Goals 🎯
+        * Lack of a single consolidated view of sales performance across products, brands, regions, and supervisors.
 
-Difficulty tracking profitability vs. volume, making it hard to spot low‑margin or high‑potential product lines.
+        * Difficulty tracking profitability vs. volume, making it hard to spot low‑margin or high‑potential product lines.
 
-Limited visibility into regional and supervisor‑wise contribution to overall growth.
+        * Limited visibility into regional and supervisor‑wise contribution to overall growth.
 
-Goal: Create a visually engaging, interactive dashboard that gives management a one‑page story of the entire sales operation for 2022–23.
+        * Goal: Create a visually engaging, interactive dashboard that gives management a one‑page story of the entire sales operation for 2022–23.
 
 b. Dashboard KPIs & Layout 🧭📌
-KPI Cards (Right Side) 💳
+   * KPI Cards (Right Side) 💳
 
-Total Sales 💰
+   * Total Sales 💰
 
-Total Cost 💸
+   * Total Cost 💸
 
-Total Profit 📈
+   * Total Profit 📈
 
-Total Quantity 📦
+   * Total Quantity 📦
 
-Number of Transactions 🧾
+   * Number of Transactions 🧾
 
 These KPIs provide an instant “health check” of the business and update with filters and slicers.
-
 Clean layout with dark theme, neon accents, and bold typography for better readability and impact.
 
 c. Quantity by Category – Top Products 📦📊
-Horizontal bar chart showing Quantity by Category (Monitor, Mouse, CPU, Graphic Card, SSD, Keyboard, HDD, Cabinet, RAM, Motherboard, Computer Case, NIC, Printer).
+   * Horizontal bar chart showing Quantity by Category (Monitor, Mouse, CPU, Graphic Card, SSD, Keyboard, HDD, Cabinet, RAM, Motherboard, Computer Case, NIC, Printer).
 
 Highlights:
 
-Identifies the highest‑selling categories by quantity, helping to prioritise stock and marketing focus.
+  * Identifies the highest‑selling categories by quantity, helping to prioritise stock and marketing focus.
 
-Quickly shows which components (e.g., monitors, mice, CPUs) dominate customer orders.
+  * Quickly shows which components (e.g., monitors, mice, CPUs) dominate customer orders.
 
-Supports decisions on inventory planning, bundling, and promotional campaigns.
+  * Supports decisions on inventory planning, bundling, and promotional campaigns.
 
 d. Total Sales by Brand – Brand Contribution 🏷️🍩
-Donut/pie chart visualising Total Sales by Brand for major vendors (Intel, Samsung, Nvidia, Dell, Acer, Western Digital, Gigabyte, Hynix, Seagate, etc.).
+   Donut/pie chart visualising Total Sales by Brand for major vendors (Intel, Samsung, Nvidia, Dell, Acer, Western Digital, Gigabyte, Hynix, Seagate, etc.).
 
 Key benefits:
 
-Reveals top‑revenue brands and underperforming brands at a glance.
+  * Reveals top‑revenue brands and underperforming brands at a glance.
 
-Helps in vendor negotiations 🤝, discount strategies, and partnership focus.
+  * Helps in vendor negotiations 🤝, discount strategies, and partnership focus.
 
-Ideal for category managers and procurement teams to track brand mix and margins.
+  * Ideal for category managers and procurement teams to track brand mix and margins.
 
 e. Sum of Sales by State – Regional View 🗺️📍
-Map visual plotting Sum of Sales by State across India, with bubble size or intensity representing revenue.
+   Map visual plotting Sum of Sales by State across India, with bubble size or intensity representing revenue.
 
 Enables:
 
-Quick identification of high‑potential states and low‑penetration regions.
+  * Quick identification of high‑potential states and low‑penetration regions.
 
-Support for territory planning, regional targets, and marketing campaigns.
+  * Support for territory planning, regional targets, and marketing campaigns.
 
-Makes geographical patterns visible, turning rows of state codes into a clear spatial story.
+  * Makes geographical patterns visible, turning rows of state codes into a clear spatial story.
 
 f. Total Profit by Supervisor – Performance Leaderboard 🧑‍💼🏆
-Left‑panel list visual showing Total Profit by Supervisor, with names and profile images (e.g., Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh).
+   Left‑panel list visual showing Total Profit by Supervisor, with names and profile images (e.g., Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh).
 
 Uses a “leaderboard” feel ⭐ to:
 
-Compare profitability generated by each supervisor.
+  * Compare profitability generated by each supervisor.
 
-Identify top performers for rewards, and those needing coaching or support.
+  * Identify top performers for rewards, and those needing coaching or support.
 
-Encourages a performance‑driven culture with transparent, visual metrics.
+  * Encourages a performance‑driven culture with transparent, visual metrics.
 
 g. Interactivity & UX 🎮🧩
-Slicers and filters to adjust views by time, category, brand, or supervisor.
+   * Slicers and filters to adjust views by time, category, brand, or supervisor.
 
-Hover tooltips 🧷 providing detailed values without cluttering the visuals.
+   * Hover tooltips 🧷 providing detailed values without cluttering the visuals.
 
-Consistent color palette and icon‑style layout 🎨 for a modern, techy look.
+   * Consistent color palette and icon‑style layout 🎨 for a modern, techy look.
 
-Optimised for presentations and storytelling in review meetings and management decks.
+   * Optimised for presentations and storytelling in review meetings and management decks.
 
 h. Business Impact & Insights 💡📈
-Converts large transactional tables into a concise executive overview, cutting analysis time for managers.
+   Converts large transactional tables into a concise executive overview, cutting analysis time for managers.
 
 Helps identify:
 
-High‑volume and high‑margin product categories 💼
+  * High‑volume and high‑margin product categories 💼
 
-Key states driving revenue and those needing attention 🌍
+  * Key states driving revenue and those needing attention 🌍
 
-Brands and supervisors contributing most to profit 🥇
+  * Brands and supervisors contributing most to profit 🥇
 
-Supports data‑driven decisions in pricing, stocking, incentive design, region focus, and vendor strategy.
+  * Supports data‑driven decisions in pricing, stocking, incentive design, region focus, and vendor strategy.
 
 6. Ending 🙌🚀
-This Power BI project demonstrates end‑to‑end BI capability – from importing and cleaning Excel sales data to building a visually rich, interactive dashboard that turns thousands of tech‑product transactions into clear, actionable insights for Tech
+This Power BI project demonstrates end‑to‑end BI capability – from importing and cleaning Excel sales data to building a visually rich, interactive dashboard that turns thousands of tech‑product transactions into clear, actionable insights for Tech.
