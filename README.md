@@ -1,8 +1,8 @@
 1. Project Title 🚀📊
-   Sales Performance Dashboard 2022–23 – Techno Electronics 💼
+   Sales Performance Dashboard 2022–23 – ABC Company 💼
 
 2. Short Description 📝✨
-   An interactive Power BI sales analytics dashboard that transforms raw transactional data into intuitive visuals, enabling leadership to monitor revenue, cost, profit, quantity, and brand performance for Techno Electronics across India in FY 2022–23. Designed with vibrant theming, dynamic KPIs, and drill‑down interactions, the dashboard delivers a fast, insightful view of “what is selling, where, and under whom” for smarter business decisions.
+   An interactive Power BI sales analytics dashboard that transforms raw transactional data into intuitive visuals, enabling leadership to monitor revenue, cost, profit, quantity, and brand performance for ABC Company across India in FY 2022–23. Designed with vibrant theming, dynamic KPIs, and drill‑down interactions, the dashboard delivers a fast, insightful view of “what is selling, where, and under whom” for smarter business decisions.
 
 3. Tech Stack 💻🛠️
 
@@ -18,7 +18,7 @@
 
 4. Data Source 📊📁
 
-   Primary file: “Complete_Techno_Sales_Data-2.xlsx” – transactional sales data for Techno Electronics.
+   Primary file: “Complete_Techno_Sales_Data-2.xlsx” – transactional sales data for ABC Company.
 
    Key fields: Order ID, Date, Product, Category, Brand, Quantity, Unit Price, Cost Price, Total Sales, Total Cost, Profit, Customer State, and Supervisor details (with image references).
 
