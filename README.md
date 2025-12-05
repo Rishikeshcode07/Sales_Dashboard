@@ -116,5 +116,5 @@ Helps identify:
 
   * Supports data‑driven decisions in pricing, stocking, incentive design, region focus, and vendor strategy.
 
-6. Ending 🙌🚀
+Ending 🙌🚀
 This Power BI project demonstrates end‑to‑end BI capability – from importing and cleaning Excel sales data to building a visually rich, interactive dashboard that turns thousands of tech‑product transactions into clear, actionable insights for Tech.
