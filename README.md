@@ -34,7 +34,7 @@
         * Goal: Create a visually engaging, interactive dashboard that gives management a one‑page story of the entire sales operation for 2022–23.
 
 b. Dashboard KPIs & Layout 🧭📌
-   (https://github.com/Rishikeshcode07/Sales_Dashboard/blob/main/Screenshot%202025-12-05%20112354.png)
+   ![Dashboard Preview](https://github.com/Rishikeshcode07/Sales_Dashboard/blob/main/Screenshot%202025-12-05%20112354.png)
    * KPI Cards (Right Side) 💳
 
    * Total Sales 💰
